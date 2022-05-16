@@ -37,8 +37,6 @@ theme:
   features:
     - tabs
     - instant
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.top 
     - navigation.instant
     - navigation.indexes
@@ -55,7 +53,7 @@ theme:
 
 # Customization
 extra_css:
-  - extra.css
+  - stylesheets/extra.css
   - https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css
 
 extra_javascript:

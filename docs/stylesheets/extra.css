@@ -1,0 +1,36 @@
+ 
+  .md-grid {
+    max-width: 1440px; 
+  }
+  
+  
+  /* Lists */
+  .md-typeset ol li,
+  .md-typeset ul li {
+    margin-bottom: .05em;
+  }
+  
+  
+  .md-typeset code, .md-typeset kbd, .md-typeset pre {
+      color: red;
+  }
+  
+  .md-typeset .emojione, .md-typeset .gemoji, .md-typeset .twemoji {
+    vertical-align:-webkit-baseline-middle !important
+  }
+
+  .highlight span.filename {
+    background-color: var(--md-code-bg-color);
+    border-top-left-radius: 0.1rem;
+    border-top-right-radius: 0.1rem;
+    display: flow-root;
+    font-size: .85em;
+    font-weight: 700;
+    margin-top: 1em;
+    padding: 0.6617647059em 1.1764705882em;
+    position: relative; 
+}
+.highlight span.filename+pre>code {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
