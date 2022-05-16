@@ -37,8 +37,8 @@ theme:
   features:
     - tabs
     - instant
-    #- navigation.tabs
-    #- navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top 
     - navigation.instant
     - navigation.indexes
@@ -135,36 +135,7 @@ plugins:
       theme_dark: "dark.puml"
   - print-site
       
-nav:
-  - Home: index.md
 
-  - HR Works:
-    - Administration Module: hrw/hrw-admin.md
-    - Leave & Accrual Module: hrw/hrw-leave.md
-    - Common Module: hrw/hrw-common.md
-    - Payroll Module: 
-      - Payroll Management: hrw/hrw-payroll.md
-      - Payroll reports: hrw/hrw-payroll-reports.md
-    - Time & Attendance Module (TAM): 
-      - hrw/hrw-tam.md
-      - TAM reports: hrw/hrw-tam-reports.md
-    - Services: hrw/services.md
-  - HR Works Plus (HRW Plus):
-    - Administration Module: ess/administration-ess.md
-    - Employee Profile: ess/ess-emp-profile.md
-    - Payroll Module:
-      - Payroll Management: ess/payroll-management-ess.md 
-      - Payroll Transactions: ess/ess-payroll-transactions.md
-    - HR Portal: ess/hr-portal-ess.md
-    - Self Service Module: ess/self-service-ess.md
-    - Leave & Accrual Module: ess/leave-module-ess.md
-    - Clearance Form and Exit Interview: ess/clearance-exit-ess.md
-    - Time and Attendance Module: ess/tam-ess.md
-    - General: ess/general-ess.md
-    - Newsletter: ess/newsletter-ess.md
-    - AMM Module: ess/amm-ess.md
-    - RMM Module: ess/rmm-ess.md
-    - PMM Module: ess/pmm-ess.md
 
   
   
