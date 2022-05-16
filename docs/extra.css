@@ -1,0 +1,231 @@
+.md-grid {
+  max-width: 1440px;
+}
+
+/* text */
+
+body, html {
+    font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+body .md-typeset {
+    font-size: 16px;
+
+}
+
+.highlight span.filename {
+  background-color: var(--md-code-bg-color);
+  border-bottom: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-top-left-radius: 0.1rem;
+  border-top-right-radius: 0.1rem;
+  display: block;
+  font-size: .85em;
+  font-weight: 700;
+  margin-top: 1em;
+  padding: 0.6617647059em 1.1764705882em;
+  position: relative;
+}
+
+.md-typeset blockquote, .md-typeset dl, .md-typeset figure, .md-typeset ol, .md-typeset pre, .md-typeset ul {
+  margin: 0em 0;
+}
+
+.md-typeset p, .md-typeset ul, .md-typeset ol, .md-typeset blockquote {
+    margin: 1em 0;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  font-weight: 600;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h3 {
+  font-weight: 600;
+  margin: .5em 0 0.1em;
+}
+/**/
+
+details.tiny {
+  margin: 0;
+  padding: 0;
+  border:0;
+  border-radius: 0;
+  box-shadow: none;
+  background: none;
+}
+details.tiny summary {
+  padding: 0 1rem 0 0;
+  margin: 0;
+  background: none;
+}
+details.tiny summary:before {
+  content: none;
+}
+details.tiny ul {
+  padding-left: 16px;
+}
+
+/* progress */
+
+p.progress-label {
+  position: absolute;
+  text-align: left;
+  font-weight: 400;
+  margin: 0 1rem;
+  line-height: 1.2rem;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 1.2rem;
+  float: left;
+  background-color: #2979ff;
+  border-radius:4px;
+}
+
+.progress {
+  display: block;
+  margin: 0.5rem 1rem;
+  border-radius:4px;
+  height: 1.2rem;
+  background-color: #eeeeee;
+  position: relative;
+}
+
+.progress.thin {
+  margin-top: 0.9rem;
+  height: 0.4rem;
+}
+
+.progress.thin .progress-label {
+  margin-top: -0.4rem;
+}
+
+.progress.thin .progress-bar {
+  height: 0.4rem;
+}
+
+.progress-100plus .progress-bar {
+  background-color: #00e676;
+}
+
+.progress-80plus .progress-bar {
+  background-color: #fbc02d;
+}
+
+.progress-60plus .progress-bar {
+  background-color: #ff9100;
+}
+
+.progress-40plus .progress-bar {
+  background-color: #ff5252;
+}
+
+.progress-20plus .progress-bar {
+  background-color: #ff1744;
+}
+
+.progress-0plus .progress-bar {
+  background-color: #f50057;
+}
+
+
+.TFtable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 90%;
+}
+.TFtable th {
+  background-color: #3b6672;
+  color: #eee;
+  font-size: 90%;
+}
+.TFtable tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+.TFtable thead {
+  background-color: #3b6672;
+  color: #eee;
+}
+
+.md-typeset__table {
+  min-width: 100%;
+  border-collapse: collapse;
+}
+.md-typeset__table th,
+td {
+  text-align: left;
+  padding: 8px;
+}
+.md-typeset__table thead {
+  background-color: #3b6672;
+  color: #eee;
+}
+.md-typeset__table tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+
+
+
+body,
+html
+{
+
+  counter-reset: h2;
+}
+h2 {
+  counter-reset: h3;
+}
+h3 {
+  counter-reset: h4;
+}
+h4 {
+  counter-reset: h5;
+}
+h5 {
+  counter-reset: h6;
+}
+article h2:before {
+  content: counter(h2, decimal) ". ";
+  counter-increment: h2;
+}
+article h3:before {
+  content: counter(h2, decimal) "." counter(h3, decimal) ". ";
+  counter-increment: h3;
+}
+article h4:before {
+  content: counter(h2, decimal) "." counter(h3, decimal) "."
+    counter(h4, decimal) ". ";
+  counter-increment: h4;
+}
+article h5:before {
+  content: counter(h2, decimal) "." counter(h3, decimal) "."
+    counter(h4, decimal) "." counter(h5, decimal) ". ";
+  counter-increment: h5;
+}
+article h6:before {
+  content: counter(h2, decimal) "." counter(h3, decimal) "."
+    counter(h4, decimal) "." counter(h5, decimal) "." counter(h6, decimal) ". ";
+  counter-increment: h6;
+}
+h2.nocount:before,
+h3.nocount:before,
+h4.nocount:before,
+h5.nocount:before,
+h6.nocount:before {
+  content: "";
+  counter-increment: none;
+}
+
+/* Datatables */
+
+div.dataTables_wrapper {
+  margin-bottom: 3em;
+}
+
+.md-typeset .admonition, .md-typeset details {
+  font-size: inherit;
+}

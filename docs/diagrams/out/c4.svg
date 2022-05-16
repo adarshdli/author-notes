@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="735px" preserveAspectRatio="none" style="width:767px;height:735px;background:#FFFFFF;" version="1.1" viewBox="0 0 767 735" width="767px" zoomAndPan="magnify"><defs/><g><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><g id="elem_user"><rect fill="#08427B" height="119.2188" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="175" x="84" y="23.5"/><image height="48" width="48" x="147.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="33.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="87" x="128" y="96.3516">Employee</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="169.5" y="113.1201"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="98" y="129.417">Want to perform .....</text></g><!--MD5=[79a439086b036a57b90a01d7b2f8bbd1]
+entity admin--><g id="elem_admin"><rect fill="#08427B" height="151.8125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="196" x="328.5" y="7"/><image height="48" width="48" x="402.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YsUoEMRCGr9w38BF8BHsbK2vxAbS3sRErQRBL0cZKBBuxEgvB0utsBO2000KwtffDgOzNJNmZ7MXbA3/+QpZN5nMyk2Rv1CzvDMoj/Wi27gW0snV6cnV/M34aP77gi9uH7ePrxfVD/abdhUCbB5fvH59fCYG4tHGkR1nsBlpY3SMZEiEmsqWHd9oHBE0mMVr7Z3d6krx9QMbctMXi6nkydgCxBDKaTeRVz5ayFYhJZRyz6EQ9YcpWIDIv43ikJ0zZCkQnyyAesWPpOaO2ArmaS8u+BViBZASn7P0/t0DPr28yiEf23cgKxMEpg3g0/aLu0/Y0hJ4wZStQ06PR7AXUuICGdXQEF2yPa7vnep6MfUD8r652s++Hv/YBBRvz5M1NcAkQJlgmVewRrrppuxAomIszi0J4coa5ZrA7FKME9wKq4bkF4muLumGB2OVw51cOL4c3WUTODfs6dgMBEa1fHoaiIR58mD94OdWDPLecaDkgxhcfFymBlc9WEqj4oOgUqc18bseB+pztFpH4VJ4iQFSDnKCCWDsdOg6UqsqpK3q2SKC/SU8QxdQNRCfLcTWlq1sCRbecetKXfwkkR1SWvt1OAPX5RaFM3BSGBaSb/x9oUoMD6qihpsfXYJn0Z4kEqn2sthU9YiUQZm+QQyuIHTh67YwANT/FxO2Mw6+Soyg5oBl6cEDft3oqPlrQW7UAAAAASUVORK5CYII=" y="17"/><text fill="#F5F5F5" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="78" x="387.5" y="79.8516">Manager</text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="424.5" y="96.6201"> </text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="350" y="112.917">People that manages</text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="172" x="338.5" y="129.2139">employee submission in</text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="393.5" y="145.5107">PMM-ESS</text></g><!--MD5=[83f95c6bebe13ebdb6e59168c902166c]
+entity ESS--><g id="elem_ESS"><rect fill="#438DD5" height="117.7813" rx="2.5" ry="2.5" style="stroke:#D73027;stroke-width:0.5;" width="220" x="61.5" y="248"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="32" x="155.5" y="272.8516">ESS</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="37" x="153" y="287.7637">[PMM]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="169.5" y="303.5889"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="200" x="71.5" y="319.8857">The main interface that the</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="200" x="71.5" y="336.1826">employee interacts with via</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="158" y="352.4795">ESS</text></g><!--MD5=[0dd7fe849c631d766e8e7bff20a1d915]
+entity ESSAdmin--><g id="elem_ESSAdmin"><rect fill="#438DD5" height="117.7813" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="220" x="316.5" y="248"/><text fill="#F5F5F5" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="78" x="387.5" y="272.8516">Manager</text><text fill="#F5F5F5" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="122" x="365.5" y="287.7637">[Approval Workflow]</text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="424.5" y="303.5889"> </text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="197" x="328" y="319.8857">The Manager interface that</text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="196" x="326.5" y="336.1826">the manager interacts with</text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="398" y="352.4795">via PMM</text></g><!--MD5=[e2307af040e3f87d22824e7603ca28ec]
+entity api--><g id="elem_api"><rect fill="#438DD5" height="101.4844" rx="2.5" ry="2.5" style="stroke:#D73027;stroke-width:0.5;" width="203" x="213" y="459.5"/><text fill="#F5F5F5" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="29" x="300" y="484.3516">API</text><text fill="#F5F5F5" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="51" x="289" y="499.2637">[ess-api]</text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="312.5" y="515.0889"> </text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="223" y="531.3857">Handles all business logic</text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="159" x="235" y="547.6826">(incl. PMM extensions)</text></g><!--MD5=[7468467f3b6b392f1d176d828c753b77]
+entity db--><g id="elem_db"><path d="M549,465 C549,455 649.5,455 649.5,455 C649.5,455 750,455 750,465 L750,555.4844 C750,565.4844 649.5,565.4844 649.5,565.4844 C649.5,565.4844 549,565.4844 549,555.4844 L549,465 " fill="#438DD5" style="stroke:#3C7FC0;stroke-width:0.5;"/><path d="M549,465 C549,475 649.5,475 649.5,475 C649.5,475 750,475 750,465 " fill="none" style="stroke:#3C7FC0;stroke-width:0.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="87" x="606" y="493.8516">Database</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="603.5" y="508.7637">[Microsoft SQL]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="647.5" y="524.5889"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="559" y="540.8857">Holds product, order and</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="579.5" y="557.1826">invoice information</text></g><!--MD5=[13975603d50ae75a37e8557c4b6b6bc4]
+entity final--><g id="elem_final"><rect fill="#438DD5" height="85.1875" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="123" x="7" y="467.5"/><text fill="#FFA500" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="103" x="17" y="492.3516">Final rating</text><text fill="#FFA500" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="88" x="24.5" y="507.2637">[Process ends]</text><text fill="#FFA500" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="66.5" y="523.0889"> </text><text fill="#FFA500" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="66.5" y="539.3857"> </text></g><!--MD5=[270cc84998db4972b04dc4bcce693138]
+link user to ESS--><g id="link_user_ESS"><path d="M171.5,142.618 C171.5,172.453 171.5,208.838 171.5,239.693 " fill="none" id="user-to-ESS" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="171.5,247.823,174.5,239.823,168.5,239.823,171.5,247.823" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="176.5" y="201.1387">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="42" x="172.5" y="215.1074">[pmm]</text></g><!--MD5=[d8ad7b810da9a661005402f587bd69c0]
+link ESS to api--><g id="link_ESS_api"><path d="M212.862,366.138 C232.252,393.393 255.263,425.737 274.482,452.751 " fill="none" id="ESS-to-api" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="279.282,459.498,277.0892,451.2402,272.2001,454.7182,279.282,459.498" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="44" x="274.5" y="408.1387">Sends</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="88" x="252.5" y="422.1074">[self appraisal]</text></g><!--MD5=[1b9dbcfdb69d97b7ce5f2d963fc4ed75]
+link api to db--><g id="link_api_db"><path d="M416.375,510 C455.725,510 500.815,510 540.788,510 " fill="none" id="api-to-db" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="548.973,510,540.973,507,540.973,513,548.973,510" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="96" x="434.5" y="504.1387">Reads/Writes</text></g><!--MD5=[7109977ec00ca0cba2a9bf9098234b41]
+link admin to ESSAdmin--><g id="link_admin_ESSAdmin"><path d="M426.5,159.159 C426.5,185.265 426.5,214.334 426.5,239.675 " fill="none" id="admin-to-ESSAdmin" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="426.5,247.763,429.5,239.763,423.5,239.763,426.5,247.763" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="470" y="201.1387">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="119" x="427.5" y="215.1074">[approval-workflow]</text></g><!--MD5=[4e155c992a703d22e88e8bc4fe776731]
+link ESSAdmin to api--><g id="link_ESSAdmin_api"><path d="M394.105,366.138 C378.982,393.278 361.048,425.463 346.034,452.407 " fill="none" id="ESSAdmin-to-api" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="342.083,459.498,348.5977,453.97,343.3565,451.0494,342.083,459.498" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="420" y="408.1387">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="119" x="377.5" y="422.1074">[approval-workflow]</text></g><!--MD5=[4f473d6cab20c2e0888cff4013ccd5b2]
+reverse link final to api--><g id="link_final_api"><path d="M138.329,510 C161.534,510 187.866,510 212.967,510 " fill="none" id="final-backto-api" style="stroke:#FFA500;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#FFA500" points="130.259,510,138.259,513,138.259,507,130.259,510" style="stroke:#FFA500;stroke-width:1.0;"/><text fill="#FFA500" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="44" x="149.5" y="490.1387">Sends</text><text fill="#FFA500" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="46" x="148.5" y="504.1074">[rating]</text></g><rect height="130.0781" rx="7.5" ry="7.5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="243" x="502" y="589.4844"/><rect height="16.2969" style="stroke:none;stroke-width:1.0;fill:none;" width="231" x="508" y="597.4844"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="57" x="508" y="610.4795">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="565" y="610.4795"> </text><rect fill="#08427B" height="16.2969" style="stroke:none;stroke-width:1.0;" width="231" x="508" y="613.7813"/><text fill="#073B6F" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="8" x="512" y="626.7764">▯</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="520" y="626.7764"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="528" y="626.7764">person</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="582" y="626.7764"> </text><rect fill="#438DD5" height="16.2969" style="stroke:none;stroke-width:1.0;" width="231" x="508" y="630.0781"/><text fill="#3C7FC0" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="8" x="512" y="643.0732">▯</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="520" y="643.0732"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="528" y="643.0732">container</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="601" y="643.0732"> </text><rect fill="#F0E68C" height="16.2969" style="stroke:none;stroke-width:1.0;" width="231" x="508" y="646.375"/><text fill="#D73027" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="8" x="512" y="659.3701">▯</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="520" y="659.3701"> </text><text fill="#66622E" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="203" x="528" y="659.3701">v1.0 (no text, no back color)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="735" y="659.3701"> </text><rect fill="#66622E" height="16.2969" style="stroke:none;stroke-width:1.0;" width="231" x="508" y="662.6719"/><text fill="#66622E" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="8" x="512" y="675.667">▯</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="520" y="675.667"> </text><text fill="#F5F5F5" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="528" y="675.667">v1.1 (no back color)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="674" y="675.667"> </text><rect fill="#66622E" height="16.2969" style="stroke:none;stroke-width:1.0;" width="231" x="508" y="678.9688"/><text fill="#66622E" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="8" x="512" y="691.9639">▯</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="520" y="691.9639"> </text><text fill="#FFA500" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="528" y="691.9639">backup (no back color)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="696" y="691.9639"> </text><text fill="#FFA500" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="8" x="512" y="708.2607">─</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="520" y="708.2607"> </text><text fill="#FFA500" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="528" y="708.2607">backup (dashed)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="650" y="708.2607"> </text><line style="stroke:#00000000;stroke-width:1.0;" x1="508" x2="739" y1="597.4844" y2="597.4844"/><line style="stroke:#00000000;stroke-width:1.0;" x1="508" x2="739" y1="613.7813" y2="613.7813"/><line style="stroke:#00000000;stroke-width:1.0;" x1="508" x2="739" y1="630.0781" y2="630.0781"/><line style="stroke:#00000000;stroke-width:1.0;" x1="508" x2="739" y1="646.375" y2="646.375"/><line style="stroke:#00000000;stroke-width:1.0;" x1="508" x2="739" y1="662.6719" y2="662.6719"/><line style="stroke:#00000000;stroke-width:1.0;" x1="508" x2="739" y1="678.9688" y2="678.9688"/><line style="stroke:#00000000;stroke-width:1.0;" x1="508" x2="739" y1="695.2656" y2="695.2656"/><line style="stroke:#00000000;stroke-width:1.0;" x1="508" x2="739" y1="711.5625" y2="711.5625"/><line style="stroke:#00000000;stroke-width:1.0;" x1="508" x2="508" y1="597.4844" y2="711.5625"/><line style="stroke:#00000000;stroke-width:1.0;" x1="739" x2="739" y1="597.4844" y2="711.5625"/><!--MD5=[34b619ef36b02c7e96622ea126a70bcc]
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+AddElementTag("v1.0", $borderColor="#d73027")
+AddElementTag("v1.1", $fontColor="#WhiteSmoke")
+AddElementTag("backup", $fontColor="orange")
+
+AddRelTag("backup", $textColor="orange", $lineColor="orange", $lineStyle = DashedLine())
+
+Person(user, "Employee", "Want to perform .....")
+Person(admin, "Manager", "People that manages employee submission in PMM-ESS", $tags="v1.1")
+Container(ESS, "ESS", "PMM", "The main interface that the employee interacts with via ESS", $tags="v1.0")
+Container(ESSAdmin, "Manager", "Approval Workflow", "The Manager interface that the manager interacts with via PMM", $tags="v1.1")
+Container(api, "API", "ess-api", "Handles all business logic (incl. PMM extensions)", $tags="v1.0+v1.1")
+ContainerDb(db, "Database", "Microsoft SQL", "Holds product, order and invoice information")
+Container(final, "Final rating", "Process ends", " ", $tags="backup")
+
+Rel(user, ESS, "Uses", "pmm")
+Rel(ESS, api, "Sends", "self appraisal")
+Rel_R(api, db, "Reads/Writes")
+Rel(admin, ESSAdmin, "Uses", "approval-workflow")
+Rel(ESSAdmin, api, "Uses", "approval-workflow")
+Rel_L(api, final, "Sends", "rating", $tags="backup")
+
+SHOW_LEGEND()
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam shadowing<<legendArea>> false
+skinparam rectangle<<legendArea>> {
+    backgroundcolor #00000000
+    bordercolor #00000000
+}
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam actor {
+    StereotypeFontSize 12
+    shadowing false
+    style awesome
+}
+
+skinparam person {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam package {
+    StereotypeFontSize 6
+    StereotypeFontColor transparent
+    FontStyle plain
+    BackgroundColor transparent
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 6
+    StereotypeFontColor transparent
+    FontColor #444444
+    BorderColor #444444
+    BackgroundColor transparent
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam database<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam queue<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam actor<<person>> {
+    StereotypeFontColor #08427B
+    FontColor #08427B
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam person<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam database<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam actor<<external_person>> {
+    StereotypeFontColor #686868
+    FontColor #686868
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam person<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam queue<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam actor<<system>> {
+    StereotypeFontColor #1168BD
+    FontColor #1168BD
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam person<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam actor<<external_system>> {
+    StereotypeFontColor #999999
+    FontColor #999999
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam person<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+sprite $person2 [48x48/16] {
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000002578888300000000005888864100000000000
+0000000007DFFFFFFFFD9643347BFFFFFFFFFB4000000000
+00000004EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB10000000
+0000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD2000000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+00003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+0000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF50000
+0003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD0000
+0009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+0009FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFF2000
+0003FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFD0000
+0000BFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFF50000
+00003FFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFB00000
+000006FFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFE100000
+0000007FFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFD2000000
+00000004EFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFB10000000
+0000000007DF8FFFFFFFFFFFFFFFFFFFFFF8FB4000000000
+000000000002578888888888888888888864100000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam queue<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam actor<<container>> {
+    StereotypeFontColor #438DD5
+    FontColor #438DD5
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam person<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+skinparam rectangle<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam database<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam queue<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam actor<<external_container>> {
+    StereotypeFontColor #B3B3B3
+    FontColor #B3B3B3
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam person<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<v1.0>> {
+    BorderColor #d73027
+}
+skinparam database<<v1.0>> {
+    BorderColor #d73027
+}
+skinparam queue<<v1.0>> {
+    BorderColor #d73027
+}
+skinparam actor<<v1.0>> {
+    BorderColor #d73027
+}
+skinparam person<<v1.0>> {
+    BorderColor #d73027
+}
+
+
+skinparam rectangle<<v1.1>> {
+    StereotypeFontColor #WhiteSmoke
+    FontColor #WhiteSmoke
+}
+skinparam database<<v1.1>> {
+    StereotypeFontColor #WhiteSmoke
+    FontColor #WhiteSmoke
+}
+skinparam queue<<v1.1>> {
+    StereotypeFontColor #WhiteSmoke
+    FontColor #WhiteSmoke
+}
+skinparam actor<<v1.1>> {
+}
+skinparam person<<v1.1>> {
+    StereotypeFontColor #WhiteSmoke
+    FontColor #WhiteSmoke
+}
+
+
+skinparam rectangle<<backup>> {
+    StereotypeFontColor orange
+    FontColor orange
+}
+skinparam database<<backup>> {
+    StereotypeFontColor orange
+    FontColor orange
+}
+skinparam queue<<backup>> {
+    StereotypeFontColor orange
+    FontColor orange
+}
+skinparam actor<<backup>> {
+}
+skinparam person<<backup>> {
+    StereotypeFontColor orange
+    FontColor orange
+}
+
+
+
+skinparam arrow<<backup>> {
+    Color orange;text:orange;line.dashed
+}
+
+
+rectangle "<$person>\n==Employee\n\n Want to perform ....." <<person>> as user 
+rectangle "<$person>\n==Manager\n\n People that manages employee submission in PMM-ESS" <<v1.1>><<person>> as admin 
+rectangle "==ESS\n//<size:12>[PMM]</size>//\n\nThe main interface that the employee interacts with via ESS" <<v1.0>><<container>> as ESS 
+rectangle "==Manager\n//<size:12>[Approval Workflow]</size>//\n\nThe Manager interface that the manager interacts with via PMM" <<v1.1>><<container>> as ESSAdmin 
+rectangle "==API\n//<size:12>[ess-api]</size>//\n\nHandles all business logic (incl. PMM extensions)" <<v1.0>><<v1.1>><<container>> as api 
+database "==Database\n//<size:12>[Microsoft SQL]</size>//\n\nHolds product, order and invoice information" <<container>> as db 
+rectangle "==Final rating\n//<size:12>[Process ends]</size>//\n\n " <<backup>><<container>> as final 
+
+user - ->> ESS : **Uses**\n//<size:12>[pmm]</size>//
+ESS - ->> api : **Sends**\n//<size:12>[self appraisal]</size>//
+api -RIGHT->> db : **Reads/Writes**
+admin - ->> ESSAdmin : **Uses**\n//<size:12>[approval-workflow]</size>//
+ESSAdmin - ->> api : **Uses**\n//<size:12>[approval-workflow]</size>//
+api -LEFT->> final <<backup>> : **Sends**\n//<size:12>[rating]</size>//
+
+hide stereotype
+legend right
+<#00000000,#00000000>|<color:#000000>**Legend**</color> |
+|<#08427B><color:#073B6F> <U+25AF></color> <color:#FFFFFF> person </color> |
+|<#438DD5><color:#3C7FC0> <U+25AF></color> <color:#FFFFFF> container </color> |
+|<#khaki><color:#d73027> <U+25AF></color> <color:#66622E> v1.0 (no text, no back color) </color> |
+|<#66622E><color:#66622E> <U+25AF></color> <color:#WhiteSmoke> v1.1 (no back color) </color> |
+|<#66622E><color:#66622E> <U+25AF></color> <color:orange> backup (no back color) </color> |
+|<color:orange> <U+2500></color> <color:orange> backup (dashed) </color> |
+endlegend
+@enduml
+
+PlantUML version 1.2022.4beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

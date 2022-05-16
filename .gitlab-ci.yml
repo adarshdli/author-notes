@@ -1,0 +1,31 @@
+image: python:latest
+
+before_script:
+  - pip install -r requirements.txt
+
+stages:
+  - test
+  - deploy
+  
+test:
+  stage: test
+  script:
+  - mkdocs build
+  artifacts:
+    paths:
+    - test
+  except:
+  - master
+
+pages:
+  script:
+    - mkdocs build --clean --config-file ./mkdocs.yml
+    - mv site public
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
+  cache:
+    paths:
+    - .cache/

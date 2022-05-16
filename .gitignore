@@ -1,0 +1,11 @@
+
+**/bin
+**/obj
+/site
+.idea/
+docs/~$i-product-enhancement-guide.docx
+docs/~$i-product-enhancement-guide.docx
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/modules.xml
+.idea/product-enhancement.iml
+.idea/vcs.xml

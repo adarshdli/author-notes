@@ -1,0 +1,170 @@
+# Project information
+site_name: 'Auhoring guide'
+site_description: 'DLI Auhoring guide'
+site_author: 'Adarsh'
+site_url: 'https://adarshbm11.gitlab.io/author-guide/'
+
+# Repository
+repo_name: 'DLI Docs'
+repo_url: 'https://gitlab.com/adarshbm11/author-guide'
+edit_uri: 'https://gitlab.com/-/ide/project/adarshbm11/author-guide/edit/main/-/docs/'
+
+# Configuration
+theme:
+  name: 'material'
+  custom_dir: overrides
+  language: 'en'
+  font:
+    text: lato-regular, Arial, Helvetica, sans-serif
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  icon:
+    logo: material/home
+    repo: fontawesome/brands/github
+  favicon: img/favicon.ico
+  logo: img/logo.png
+  features:
+    - tabs
+    - instant
+    #- navigation.tabs
+    #- navigation.tabs.sticky
+    - navigation.top 
+    - navigation.instant
+    - navigation.indexes
+    - navigation.tracking    
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.annotate
+        # - toc.integrate
+    
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+# Customization
+extra_css:
+  - extra.css
+  - https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css
+
+extra_javascript:
+  - https://code.jquery.com/jquery-3.5.1.js
+  - https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js
+  - scripts/site.js
+  
+extra:
+  generator: false
+
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.inlinehilite
+  - attr_list
+  - pymdownx.snippets
+  - pymdownx.magiclink
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.details
+  - pymdownx.progressbar
+  - meta
+  - md_in_html
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+      title: On this page
+      toc_depth: 4
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.highlight:
+      anchor_linenums: true
+      linenums: true
+      linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+
+
+# plugins
+plugins:
+  - search
+  - exclude-search:
+      exclude:
+        - product-enhancement-full.md
+        - review.md
+  - include-markdown
+  - awesome-pages
+  - minify:
+      minify_html: true
+  - mkdocs-word-filter:
+      filter-lines-with:
+          - toc
+          - newpage
+  - build_plantuml:
+      render: "server"
+      bin_path: "/usr/local/bin/plantuml"
+      server: "http://www.plantuml.com/plantuml"
+      output_format: "svg"
+      diagram_root: "docs/diagrams"
+      output_folder: "out"
+      input_folder: "src"
+      theme_enabled: true
+      theme_folder: "include/themes"
+      theme_light: "light.puml"
+      theme_dark: "dark.puml"
+  - print-site
+      
+nav:
+  - Home: index.md
+
+  - HR Works:
+    - Administration Module: hrw/hrw-admin.md
+    - Leave & Accrual Module: hrw/hrw-leave.md
+    - Common Module: hrw/hrw-common.md
+    - Payroll Module: 
+      - Payroll Management: hrw/hrw-payroll.md
+      - Payroll reports: hrw/hrw-payroll-reports.md
+    - Time & Attendance Module (TAM): 
+      - hrw/hrw-tam.md
+      - TAM reports: hrw/hrw-tam-reports.md
+    - Services: hrw/services.md
+  - HR Works Plus (HRW Plus):
+    - Administration Module: ess/administration-ess.md
+    - Employee Profile: ess/ess-emp-profile.md
+    - Payroll Module:
+      - Payroll Management: ess/payroll-management-ess.md 
+      - Payroll Transactions: ess/ess-payroll-transactions.md
+    - HR Portal: ess/hr-portal-ess.md
+    - Self Service Module: ess/self-service-ess.md
+    - Leave & Accrual Module: ess/leave-module-ess.md
+    - Clearance Form and Exit Interview: ess/clearance-exit-ess.md
+    - Time and Attendance Module: ess/tam-ess.md
+    - General: ess/general-ess.md
+    - Newsletter: ess/newsletter-ess.md
+    - AMM Module: ess/amm-ess.md
+    - RMM Module: ess/rmm-ess.md
+    - PMM Module: ess/pmm-ess.md
+
+  
+  

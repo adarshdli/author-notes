@@ -1,0 +1,254 @@
+
+<style>
+  .footer {
+    margin-top: auto
+  }
+  footer.footer {
+    font-size: 0.85rem;
+    background-color: #0c152e;
+    color: #8e8e8e;
+    padding: 0.5rem 0.3rem;
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 8 .5rem;
+    align-content: center;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .footer p {
+    opacity: 0.36;
+    color: #c2d2ff;
+    font-size: 12px;
+    letter-spacing: 0.16px;
+    line-height: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .footer a {
+    color: #c2d2ff;
+    font-size: 13px;
+    letter-spacing: 0.009rem;
+    line-height: 1.25rem;
+    margin-right: 1.125rem;
+  }
+  
+  .institutional-links-2 {
+    align-items: stretch;
+    display: flex;
+    flex-shrink: 0;
+    margin-bottom: 0.625rem;
+  }
+  
+  .institutional-links-2__item {
+    color: #c2d2ff;
+    font-size: 13px;
+    letter-spacing: 0.009rem;
+    line-height: 1.25rem;
+    margin-right: 1.125rem;
+  }
+  
+  .footer__container {
+    width: 100%;
+    display: flex;
+    flex-shrink: 0;
+    padding: 15px 0 25px;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer__copyright {
+    height: 4.375rem;
+    width: 35rem;
+    padding: 0 20px;
+  }
+  
+  .footer__logo-container {
+    padding: 30px 20px 0 20px;
+    display: none;
+  }
+  
+  .footer__logo-container::before {
+    content: "";
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 2px;
+    background: white;
+    opacity: 0.12;
+    margin-right: 10px;
+  }
+  
+  .footer__dli-logo {
+    height: 25px;
+    width: 124px;
+    margin: 30px 0 10px;
+  }
+  
+  .community-section {
+    height: 20px;
+    display: flex;
+    align-items: stretch;
+    flex-shrink: 0;
+    padding: 0 20px;
+  }
+  
+  .community-section__text {
+    opacity: 0.36;
+    color: #c2d2ff;
+    font-size: 12px;
+    letter-spacing: 0.16px;
+    line-height: 20px;
+    margin-right: 40px;
+  }
+  
+  .community-section__icons {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .footer__icon {
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  
+  .icon-facebook {
+    background-image: url(/assets/images/icon-fb.svg);
+  }
+  
+  .icon-twitter {
+    background-image: url(../assets/images/tw_16.svg);
+  }
+  
+  .icon-linkedin {
+    background-image: url(../assets/images/icon-linkedin.svg);
+  }
+  
+  .icon-reddit {
+    background-image: url(../assets/images/reddit_16.svg);
+  }
+  
+  .icon-youtube {
+    background-image: url(../assets/images/icon-youtube.svg);
+  }
+  
+  .icon-github {
+    background-image: url(../assets/images/git_16.svg);
+  }
+  
+  .icon-discord-2x {
+    background-image: url(../assets/images/bug.svg);
+    height: 2em;
+    width: 2em;
+  }
+  
+  .icon-discord {
+    background-image: url(../assets/images/bug.svg);
+  }
+  
+  .icon-github-2x {
+    background-image: url(../assets/images/git_16.svg);
+    margin-left: 1em;
+    height: 1.75em;
+    width: 1.75em;
+  }
+  
+  @media screen and (max-width: 992px) {
+    footer.footer {
+      height: auto;
+    }
+  
+    .footer__container {
+      flex-direction: column-reverse;
+      padding: 45px 0 50px 0;
+    }
+  
+    .footer__logo-container {
+      display: block;
+    }
+  
+    .footer__copyright {
+      width: auto;
+    }
+  }
+  
+  .bottom-link {
+    display: flex;
+    align-items: center;
+  }
+  
+  .bottom-links {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    padding-bottom: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e1e1e1;
+  }
+  
+  .footer-links {
+    display: contents;
+  }
+  
+  .footer-links > li {
+    margin-left: 0.5rem;
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    .navbar-brand .navbar-item + .navbar-item {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  
+    /*.navbar-brand {
+      padding: 0 0 0 4rem;
+    }*/
+  
+    .icon-discord-2x {
+      height: 1em;
+      width: 1em;
+    }
+  
+    .icon-discord {
+      background-image: url(../assets/images/bug.svg);
+    }
+  
+    .icon-bug-2x {
+      height: 1em;
+      width: 1em;
+    }
+  
+    .icon-bug {
+      background-image: url(../assets/images/bug.svg);
+    }
+  
+    .icon-github-2x {
+      height: 1em;
+      width: 1em;
+    }
+  }
+  </style>
+  <footer class="footer">
+      <div class="footer__container">
+          <div class="footer__copyright">
+              <div class="institutional-links-2">
+                  <span class="institutional-links-2__item">© 2021 DLI IT Systems LLC</span>
+                  <ul class="footer-links">
+                      <li><a class="institutional-links-2__item" href="https://dli-it.com/" target="_blank" class="institutional-links-2-item">Corporate Website</a></li>
+                      <li><a class="institutional-links-2__item" href="https://dli-apps.sourcerepo.com/redmine/dli/" target="_blank" class=" institutional-links-2-item">Redmine</a></li>
+                      <li><a class="institutional-links-2__item" href="https://form.jotform.com/220680510959458" target="_blank" class="institutional-links-2-item">Feedback</a>
+                      </li>
+                  </ul>
+              </div>
+              <p class="footer__copyright-text">DREAM LAND INNOVATION SYSTEMS LLC</p>
+              <p>#209, Atrium Center, Bank Street, Bur Dubai PO Box 27287, Dubai, UAE</p>
+          </div>
+  </footer>
+  

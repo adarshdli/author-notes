@@ -1,0 +1,13 @@
+<Project Sdk="DLI.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>program.php</StartupObject>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="**/*.php" />
+    <PackageReference Include="DLI.Library.PDO.MySql" Version="$(DLIVersion)" />
+    <PackageReference Include="DLI.Library.PDO.Sqlite" Version="$(DLIVersion)" />
+  </ItemGroup>
+</Project>

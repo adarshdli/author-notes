@@ -1,0 +1,26 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+AddElementTag("v1.0", $borderColor="#d73027")
+AddElementTag("v1.1", $fontColor="#WhiteSmoke")
+AddElementTag("backup", $fontColor="orange")
+
+AddRelTag("backup", $textColor="orange", $lineColor="orange", $lineStyle = DashedLine())
+
+Person(user, "Employee", "Want to perform .....")
+Person(admin, "Manager", "People that manages employee submission in PMM-ESS", $tags="v1.1")
+Container(ESS, "ESS", "PMM", "The main interface that the employee interacts with via ESS", $tags="v1.0")
+Container(ESSAdmin, "Manager", "Approval Workflow", "The Manager interface that the manager interacts with via PMM", $tags="v1.1")
+Container(api, "API", "ess-api", "Handles all business logic (incl. PMM extensions)", $tags="v1.0+v1.1")
+ContainerDb(db, "Database", "Microsoft SQL", "Holds product, order and invoice information")
+Container(final, "Final rating", "Process ends", " ", $tags="backup")
+
+Rel(user, ESS, "Uses", "pmm")
+Rel(ESS, api, "Sends", "self appraisal")
+Rel_R(api, db, "Reads/Writes")
+Rel(admin, ESSAdmin, "Uses", "approval-workflow")
+Rel(ESSAdmin, api, "Uses", "approval-workflow")
+Rel_L(api, final, "Sends", "rating", $tags="backup")
+
+SHOW_LEGEND()
+@enduml
