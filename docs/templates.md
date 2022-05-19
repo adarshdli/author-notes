@@ -66,7 +66,7 @@ It’s also good to practice a little **empathy**.
 
 **Example**:
 
-```markdown
+``` sql
 1. I click on the “Create new” button.
 2. An instance form appears.
 3. The instance form contains the following:
@@ -77,7 +77,7 @@ It’s also good to practice a little **empathy**.
 
 ### Template (To be developed)
 
-```markdown
+``` sql
 [
 The user story should have a reason to exist: what do I need as the user described in the summary?
 This part details any detail that could not be passed by the summary.
@@ -113,7 +113,7 @@ Also, here are a few points that need to be addressed:
 
 ### Example
 
-```markdown
+``` sql
 **As a** a member of [the development team](http://scrumguides.org/scrum-guide.html#team-dev),
 **I want** clear context and goals **so that** I can work efficiently.
 
@@ -139,7 +139,7 @@ the outcomes should be documented within that issue (not in the comments).
 
 ## Issue reporting and feature template
 
-``` asciidoc title="Isssue-template.md"
+``` sql title="Isssue-template.md"
 1. Current behaviour
     ..what happens now    
 
@@ -157,7 +157,7 @@ the outcomes should be documented within that issue (not in the comments).
 ```
 
 **Example**:
-``` markdown 
+``` sql
 **Current behaviour**
 The *Manage User* page doesn't show the following fields/ buttons on page load. To view these fields, I have to scroll the page towards right after the page loads. 
 * Confirm deletion
